@@ -15,5 +15,5 @@ Sou apenas um curioso buscando coisas novas.
 ![vscode so uso as vezes](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ## Minhas linguagens favoritas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizin5)](https://github.com/luizin5/github-readme-stats)
 
